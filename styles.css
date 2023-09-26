@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+:root{
+	background-color: rgb(135, 206, 235);
+}
+.para{
+	background-color: black;
+	color: white;
+}
+#second{
+	color: black;
+}
+#third{
+	color: red;
+}
+.a{
+	background-color:white;
+	width: 50%;
+	padding: 10px 10px 10px 10px;
+	font-size: 22px;
+}
+.b{
+	background-color:pink;
+}
+.c{
+	background-color:gray;
+}
